@@ -1,0 +1,1 @@
+window.tinyMCEPreInit = {"base":"\/drupal_43465\/sites\/all\/libraries\/tinymce\/jscripts\/tiny_mce","suffix":"","query":""};
